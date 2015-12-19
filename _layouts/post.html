@@ -24,7 +24,7 @@ layout: default
 
 	{% if site.related_posts %}
 	<div class="related">
-		<h4>Related Posts</h2>
+		<h4>Otros posts</h2>
 		<ul class="posts">
 		    {% for post in site.related_posts limit:3 %}
 		    <li>
@@ -39,17 +39,17 @@ layout: default
 	<div class="post-footer">
 		<div class="column-1">
 			{% if page.previous %}
-				<a href="{{page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
+				<a href="{{page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Anterior</a>
 			{% else %}
-				<span><< Older</span>
+				<span><< Anterior</span>
 			{% endif %}
 		</div>
-		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
+		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Inicio</a></div>
 		<div class="column-3">
 			{% if page.next %}
-				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
+				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Siguiente >></a>
 			{% else %}
-				<span>Newer >></span>
+				<span>Siguiente >></span>
 			{% endif %}
 		</div>
 	</div>
