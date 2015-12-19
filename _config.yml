@@ -1,14 +1,62 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Harmony Jekyll theme general configurations 
 
-# Build settings
-markdown: kramdown
+# Base URL
+baseurl: 
+
+# Site live URL
+url: 
+
+# Localhost 
+# url: http://127.0.0.1:4000  
+
+# Harmony theme configuration. Please change accordingly.
+harmony:
+  name: Santiago Eastman
+  # Little description about your site
+  description: Graphic 'n UI designer at Beek.io
+  # 'meta_description:' Write an awesome description for your new site here.
+  # It will appear in your document head meta (for Google search results) and 
+  # in your feed.xml site description.
+  meta_description: > # 
+   Graphic & UI designer at beek.io. Pizza lover and capuccino sensei. Passionate for design and good stories.
+  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  author: # Author details
+    name: Santiago Eastman
+    email: eastmangonzalezs@gmail.com
+    url: http://eastmango.github.io
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-71618902-1
+
+  # Profile links, leave blank to ignore
+  social: 
+    github: eastmango
+    twitter: santiagoeastman
+    facebook: santi.eastmang
+    # gplus: +GayanVirajith
+    # dribble: gayan
+    # pinterest: 
+  # Toggle disclaimer in footer
+  show_disclaimer: false
+
+# Conversion / Build settings 
+markdown:    kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: pygments 
+
+# Permalinks
+permalink:        pretty
+
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+
+# Sass conversion configs
+sass:
+    sass_dir: assets/css/_sass
+    style: :compressed
