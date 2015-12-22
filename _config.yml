@@ -47,6 +47,7 @@ highlighter: pygments
 # Permalinks
 permalink:        pretty
 
+
 exclude: 
   - CNAME
   - Gemfile
