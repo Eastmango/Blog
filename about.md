@@ -4,15 +4,15 @@ title: ¿Quien soy?
 permalink: /about/
 ---
 
-Hola, Soy Santiago Eastman, diseñador gráfico y de interfaces de usuario en Bogotá - Colombia. 
+Hi, I'm Santiago Eastman, from Bogotá - Colombia.
 
-Trabajo en [Beek.io,][beek] una red social para amantes de la lectura y una gran comunidad, antes fui diseñador y marketer digital en [Platzi][platzi] donde aprendí casi todo lo que se ahora. 
+I'm Graphic & UI designer at [Beek.io,][beek] a social network to booklovers, former graphic designer and digital strategist at [Platzi][platzi].
 
-Soy apasionado por el diseño y el desarrollo web, pizza lover & capuccino sensei.
+Pasionate for UX/UI | Cappucino | Pizza lover | web design
 
-### Escríbeme
+### Follow me on
 
-Encuéntrame en [Github][github] / [Twitter][Twitter] o si quieres, dime  `Hola` en 
+My [Github][github] account or my [Twitter][Twitter] or you can say 'hello' on
 [eastmangonzalezs@gmail.com](eastmangonzalezs@gmail.com)
 
 
