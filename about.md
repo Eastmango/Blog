@@ -8,7 +8,7 @@ Hi, I'm Santiago Eastman, from Bogotá - Colombia.
 
 I'm Graphic & UI designer at [Beek.io,][beek] a social network to booklovers, former graphic designer and digital strategist at [Platzi][platzi].
 
-Pasionate for UX/UI · Cappucino · Pizza lover · web design
+Passionate by UX/UI · Cappucino · Pizza lover · web design
 
 ### Follow me on
 
