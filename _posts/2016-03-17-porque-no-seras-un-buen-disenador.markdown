@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 razones que no te hacen buen diseñador"
-date:   2016-03-07 20:25:45
+date:   2016-03-17 20:25:45
 description:   
 categories:
 - blog
