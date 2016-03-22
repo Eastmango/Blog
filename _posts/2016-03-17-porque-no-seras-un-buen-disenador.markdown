@@ -7,7 +7,9 @@ categories:
 - blog
 permalink: porque-no-seras-un-buen-disenador
 ---
+
 Como diseñador me he dado cuenta de ciertas actitudes y costumbres que no nos dejan crecer como profesionales. Y no hay una materia en la escuela que nos enseñe como reprimirlas o evitarlas, estas son cosas que por desgracia o por fortuna las aprendemos día a día, trabajando con personas reales y enfrentándonos a problemas reales.
+
 ___
 
 Como diseñador me he dado cuenta de ciertas actitudes y costumbres que no nos dejan crecer como profesionales. Y no hay una materia en la escuela que nos enseñe como reprimirlas o evitarlas, estas son cosas que por desgracia o por fortuna las aprendemos día a día, trabajando con personas reales y enfrentándonos a problemas reales.
