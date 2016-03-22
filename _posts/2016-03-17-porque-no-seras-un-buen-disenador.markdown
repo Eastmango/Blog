@@ -12,8 +12,6 @@ Como diseñador me he dado cuenta de ciertas actitudes y costumbres que no nos d
 
 ___
 
-Como diseñador me he dado cuenta de ciertas actitudes y costumbres que no nos dejan crecer como profesionales. Y no hay una materia en la escuela que nos enseñe como reprimirlas o evitarlas, estas son cosas que por desgracia o por fortuna las aprendemos día a día, trabajando con personas reales y enfrentándonos a problemas reales.
-
 No pretendo decirte que soy el mejor. Seguro tú tienes más habilidades y experiencia como diseñador que yo, ésta es tan sólo una humilde opinión contándote lo que he aprendido todos los días y que me han ayudado a ser un mejor profesional.
 
 ### Te tomas todo de manera personal
